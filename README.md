@@ -40,7 +40,6 @@ Loaded: src/outputfromProject1/VAERSCOVID2025.csv‬
 -Time to load src/outputfromProject1/VAERSCOVID2025.csv: 25 ms‬
 All data loaded into the tree in 30096 ms‬‬
 
-
 Project 3 ‬
 Data Preprocessing‬: The VAERS dataset is known for high dimensionality and variability in textual fields. To structure‬ the data for association rule mining, the preprocessing focused on extracting clean, usable‬ categorical symptom features:‬ Selected structured columns: SYMPTOM1 to SYMPTOM5.‬
 -All symptoms are in these columns. Using these columns means we are using all the‬ available symptoms in each transaction in the database‬
