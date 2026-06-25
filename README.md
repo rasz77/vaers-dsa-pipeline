@@ -2,7 +2,7 @@
 
 Three Java projects exploring data structures and algorithms applied to the CDC's [VAERS](https://vaers.hhs.gov/data.html) (Vaccine Adverse Event Reporting System) COVID-19 dataset — roughly 1.6 million records. Built for CSC 365 (Data Structures & Algorithms).
 
-#Project 1: Sorting Algorithm Benchmark
+# Project 1: Sorting Algorithm Benchmark
 
 Implements and benchmarks three sorting algorithms — Quick Sort, Merge Sort, and Insertion Sort — on VAERS COVID-19 case records, sorted by `VAERSID`.
 
